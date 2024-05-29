@@ -7,7 +7,7 @@ type EventCardProps = {
 
 export default function EventCard({ event }: EventCardProps) {
   return (
-    <section className="flex flex-col h-[380px] flex-1 basis-80 max-w-[500px] bg-white/[3%] rounded-xl overflow-hidden relative">
+    <section className="flex flex-col h-[380px] flex-1 basis-80 max-w-[500px] bg-white/[3%] rounded-xl overflow-hidden relative hover:scale-105 active:scale-[1.02] transition">
       <Image
         src={event.imageUrl}
         alt={event.name}
