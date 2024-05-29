@@ -55,7 +55,33 @@ export default async function EventPage({ params }: EventPageProps) {
         </div>
       </section>
 
-      <div></div>
+      <div className="min-h-[75vh] text-center px-5 py-16">
+        <Section>
+          <Sectionheading>About this event</Sectionheading>
+          <SectionContent>{event.description}</SectionContent>
+        </Section>
+
+        <Section>
+          <Sectionheading>Location</Sectionheading>
+          <SectionContent>{event.location}</SectionContent>
+        </Section>
+      </div>
     </main>
+  );
+}
+
+function Section({ children }: { children: React.ReactNode }) {
+  return <section className="mb-12">{children}</section>;
+}
+
+function Sectionheading({ children }: { children: React.ReactNode }) {
+  return <h2 className="text-2xl mb-8">{children}</h2>;
+}
+
+function SectionContent({ children }: { children: React.ReactNode }) {
+  return (
+    <p className="text-lg leading-8 text-white/75 max-w-4xl mx-auto">
+      {children}
+    </p>
   );
 }
