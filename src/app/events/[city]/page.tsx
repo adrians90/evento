@@ -11,7 +11,7 @@ type Props = {
     city: string;
   };
 };
-export function generateMetadata({ params }: Props) {
+export function generateMetadata({ params }: Props): Metadata {
   const city = params.city;
 
   return {
