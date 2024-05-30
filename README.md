@@ -3,6 +3,8 @@
 Evento is a dynamic and user-friendly website designed to help you discover events happening in your vicinity. Whether you're looking for concerts, workshops, or social gatherings, Evento makes it easy to find what's happening around you.
 
 **Features:**
+
+
 **Modern Next.js Capabilities:** Leverages the latest Next.js features including data caching for enhanced performance, and advanced routing for a seamless user experience.
 **Prisma Integration:** Utilizes Prisma for efficient and reliable database management.
 
