@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+**Evento - Find events around you**
 
-## Getting Started
+Evento is a dynamic and user-friendly website designed to help you discover events happening in your vicinity. Whether you're looking for concerts, workshops, or social gatherings, Evento makes it easy to find what's happening around you.
 
-First, run the development server:
+**Features:**
+**Modern Next.js Capabilities:** Leverages the latest Next.js features including data caching for enhanced performance, and advanced routing for a seamless user experience.
+**Prisma Integration:** Utilizes Prisma for efficient and reliable database management.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Built with:** JavaScript, TypeScript, Next.js, Tailwind CSS, Prisma.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Live link:**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+https://evento-as90.vercel.app/
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+To run locally: npm install, npm run dev.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+![image](https://github.com/adrians90/evento/assets/128593202/1e4f467b-18af-435c-82b9-afe33ca0d941)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![image](https://github.com/adrians90/evento/assets/128593202/ea79a026-ed01-4471-8c6e-f4cead5d0ca3)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![image](https://github.com/adrians90/evento/assets/128593202/e9921a0b-b4ff-4c6c-866b-512671368de2)
 
-## Deploy on Vercel
+![image](https://github.com/adrians90/evento/assets/128593202/562402e5-848c-4450-8284-1144ec16f638)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
