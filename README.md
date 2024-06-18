@@ -6,7 +6,7 @@ Evento is a dynamic and user-friendly website designed to help you discover even
 
 
 **Modern Next.js Capabilities:** Leverages the latest Next.js features including data caching for enhanced performance, and advanced routing for a seamless user experience.
-**Prisma Integration:** Utilizes Prisma for efficient and reliable database management.
+**Prisma Integration:** Utilises Prisma for efficient and reliable database management.
 
 **Built with:** JavaScript, TypeScript, Next.js, Tailwind CSS, Prisma.
 
